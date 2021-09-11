@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ShinnDing
 - 👀 I’m interested in obtaining a First-time Software Engineering Internship.
-- 🌱 I’m currently learning Parallel and Distributed Algorithms (Senior level course).
-- 🌱 I'm enrolled in the Computer Science M.S. program at Metropolitan State University.
-- 🌱 I'm also learning JavaScript in my spare time.
+- 🌱 Undergrad GPA 3.77
+- 🌱 Currently taking Parallel and Distributed Algorithms (Senior level course).
+- 🌱 Enrolled in the Computer Science M.S. program at Metropolitan State University.
+- 🌱 Learning JavaScript in my spare time.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me for employment opportunities:  stephanieshinn@outlook.com
 
