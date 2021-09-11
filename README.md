@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShinnDing
 - 👀 I’m interested in obtaining a First-time Software Engineering Internship.
-- 🌱 I’m currently learning Design Patterns and Class organization in Java (OOP Design & Implementation course, Junior Level).
-- 🌱 I have applied for entrance into the Computer Science M.S. program at Metropolitan State University.
+- 🌱 I’m currently learning Parallel and Distributed Algorithms (Senior level course).
+- 🌱 I'm enrolled in the Computer Science M.S. program at Metropolitan State University.
 - 🌱 I'm also learning JavaScript in my spare time.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me for employment opportunities:  stephanieshinn@outlook.com
