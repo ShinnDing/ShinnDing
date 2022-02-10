@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ShinnDing
 - 👀 I’m interested in obtaining a First-time Software Engineering Internship.
+- 🌱 Primary language: Java
 - 🌱 Undergrad GPA 3.77
 - 🌱 Currently taking Operating Systems ICS-462-50 (Senior level course).
 - 🌱 Enrolled in the Computer Science M.S. program at Metropolitan State University.
