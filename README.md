@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ShinnDing
-- 👀 I’m interested in obtaining a First-time Software Engineering Internship.
+- 👀 I’m interested in obtaining a Software Engineering Internship.
 - 🌱 Primary language: Java
 - 🌱 Undergrad GPA 3.77
 - 🌱 Currently taking Operating Systems ICS-462-50 (Senior level course).
-- 🌱 Enrolled in the Computer Science M.S. program at Metropolitan State University.
+- 🌱 Enrolled in the Computer Science M.S. program at Metro State University starting Fall 2022.
 - 🌱 Learning JavaScript in my spare time.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me for employment opportunities:  stephanieshinn@outlook.com
