@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShinnDing
 - 👀 I’m interested in obtaining a First-time Software Engineering Internship.
 - 🌱 Undergrad GPA 3.77
-- 🌱 Currently taking Parallel and Distributed Algorithms (Senior level course).
+- 🌱 Currently taking Operating Systems ICS-462-50 (Senior level course).
 - 🌱 Enrolled in the Computer Science M.S. program at Metropolitan State University.
 - 🌱 Learning JavaScript in my spare time.
 - 💞️ I’m looking to collaborate on ...
