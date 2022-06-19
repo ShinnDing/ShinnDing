@@ -5,7 +5,7 @@
 - 🌱 Familiar with Design Patters and Multithreading
 - 🌱 Computer Science M.S. (2022 - est. May 2024)
 - 🌱 Undergrad GPA 3.78
-- 🌱 HTML & CSS (1 year); JavaScript (3 months)
+- 🌱 HTML & CSS (1 year); JavaScript (< 6 months)
 - 💞️ I’m looking to network and share ideas
 - 📫 How to reach me for employment opportunities:  stephanieshinn@outlook.com
 
