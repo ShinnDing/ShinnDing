@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @ShinnDing
 - 👀 I’m interested in Backend or Full Stack Java.
 - 🌱 Primary language: Java (2 years)
-- 🌱 Strong OOP utilizing S.O.L.I.D. principles.
-- 🌱 Familiar with Design Patters and Multithreading.
+- 🌱 Strong OOP utilizing S.O.L.I.D. principles
+- 🌱 Familiar with Design Patters and Multithreading
+- 🌱 Computer Science M.S. (2022 - est. May 2024)
 - 🌱 Undergrad GPA 3.78
-- 🌱 Computer Science M.S. (est. May 2024)
-- 🌱 Worked with HTML, CSS, and JavaScript over the last year.
+- 🌱 HTML & CSS (1 year); JavaScript (3 months)
 - 💞️ I’m looking to network and share ideas
 - 📫 How to reach me for employment opportunities:  stephanieshinn@outlook.com
 
