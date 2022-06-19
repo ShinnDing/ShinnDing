@@ -5,8 +5,7 @@
 - 🌱 Familiar with Design Patters and Multithreading.
 - 🌱 Undergrad GPA 3.78
 - 🌱 Currently taking Networks & Security ICS 460-50 (Senior level course).
-- 🌱 Enrolled in the Computer Science M.S. program at Metro State University starting Fall 2022.
-- 🌱 est. graduation May 2024
+- 🌱 Computer Science M.S. (est. May 2024)
 - 🌱 Worked with HTML, CSS, and JavaScript over the last year.
 - 💞️ I’m looking to network and share ideas
 - 📫 How to reach me for employment opportunities:  stephanieshinn@outlook.com
