@@ -4,7 +4,6 @@
 - 🌱 Strong OOP utilizing S.O.L.I.D. principles.
 - 🌱 Familiar with Design Patters and Multithreading.
 - 🌱 Undergrad GPA 3.78
-- 🌱 Currently taking Networks & Security ICS 460-50 (Senior level course).
 - 🌱 Computer Science M.S. (est. May 2024)
 - 🌱 Worked with HTML, CSS, and JavaScript over the last year.
 - 💞️ I’m looking to network and share ideas
