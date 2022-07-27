@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShinnDing
+- 👋 Hi, I’m Stephanie Shinn
 - 👀 I’m interested in Backend or Full Stack Java.
 - 🌱 Primary language: Java (2 years)
 - 🌱 Strong OOP utilizing S.O.L.I.D. principles
