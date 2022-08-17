@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Stephanie Shinn.
 - 👀 I’m interested in Backend or Full Stack Java.
 - 🌱 Primary language: Java (2 years)
+- 🌱 HTML & CSS (1 year), JavaScript (< 6 months), SQL (< 3 months)
 - 🌱 Strong OOP utilizing S.O.L.I.D. principles
 - 🌱 Understand Design Patterns and Multithreading
 - 🌱 Computer Science M.S. (est. December 2024)
 - 🌱 Undergrad GPA 3.77
-- 🌱 HTML & CSS (1 year); JavaScript (< 6 months)
 - 💞️ I’m looking to network and share ideas.
 - 📫 How to reach me for employment opportunities:  stephanieshinn@outlook.com
 
