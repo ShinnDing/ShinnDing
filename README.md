@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Stephanie Shinn.
-- 🌱 Primary language: Java (2 years)
-- 🌱 HTML & CSS (1 year), JavaScript (6 months), SQL (< 3 months)
+- 🌱 Java, Go, JavaScript, HTML, CSS
 - 🌱 Strong OOP utilizing S.O.L.I.D. principles and Design Patterns
 - 🌱 Understand Design Patterns and Multithreading
-- 🌱 Computer Science M.S. (est. December 2024)
-- 🌱 Graduate GPA 4.00
+- 🌱 Computer Science M.S. (est. December 2025)
+- 🌱 Graduate GPA 3.77
 - 📫 How to reach me:  stephanieshinn@outlook.com
 
 <!---
