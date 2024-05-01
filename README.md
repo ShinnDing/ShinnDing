@@ -3,7 +3,7 @@
 - 🌱 Strong OOP utilizing S.O.L.I.D. principles and Design Patterns
 - 🌱 Understand Design Patterns and Multithreading
 - 🌱 Computer Science M.S. (est. December 2025)
-- 🌱 Graduate GPA 3.77
+- 🌱 Graduate GPA 3.89
 - 📫 How to reach me:  stephanieshinn@outlook.com
 
 <!---
