@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Stephanie Shinn.
 - 🌱 Java, Go, Terraform, JSON, JavaScript, HTML, CSS
 - 🌱 Infrastructure as Code (IaC) automation
-- 🌱 Strong OOP utilizing S.O.L.I.D. principles and Design Patterns
 - 🌱 Understand OOP, S.O.L.I.D. principles, Design Patterns and Multithreading
 - 🌱 Computer Science M.S. (est. 2025)
 - 🌱 Graduate GPA 3.90
