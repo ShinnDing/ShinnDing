@@ -3,7 +3,7 @@
 - 🌱 Infrastructure as Code (IaC) automation
 - 🌱 Understand OOP, S.O.L.I.D. principles, Design Patterns and Multithreading
 - 🌱 Computer Science M.S. (est. 2025)
-- 🌱 Graduate GPA 3.90
+- 🌱 Graduate GPA 3.88
 - 📫 How to reach me:  stephanieshinn@outlook.com
 
 <!---
