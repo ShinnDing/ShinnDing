@@ -11,5 +11,3 @@ ShinnDing/ShinnDing is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-### Professional GitHub Activity Summary
-![cargill-github-activity](https://github.com/user-attachments/assets/3ee40ae3-3b3a-4683-8e00-6e98908e2a09)
