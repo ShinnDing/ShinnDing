@@ -3,7 +3,7 @@
 - 🔑 Public Key Infrastructure (Traditional & Quantum-Safe)
 - 💻 Go, Terraform, JSON, JavaScript, HTML, CSS
 - ⚡️ Automation with Infrastructure as Code (IaC)
-- 👩‍🎓 Computer Science M.S. (est. December 2025)
+- 👩‍🎓 Computer Science M.S.
 - 📚 Graduate GPA 3.88
 - 📫 How to reach me:  stephanieshinn@outlook.com
 
