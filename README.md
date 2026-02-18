@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Stephanie Shinn.
 - 🔐 Identity & Access Management Engineer
 - 🔑 Public Key Infrastructure (Traditional & Quantum-Safe)
-- 💻 Go, Terraform, JSON, JavaScript, HTML, CSS
 - ⚡️ Automation with Infrastructure as Code (IaC)
+- 💻 Go, Terraform, JSON, JavaScript, HTML, CSS
 - 👩‍🎓 Computer Science M.S.
 - 📚 Graduate GPA 3.88
 - 📫 How to reach me:  stephanieshinn@outlook.com
