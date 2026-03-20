@@ -39,7 +39,7 @@ at VCRIS 2025 in Vietnam. 🌏
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShinnDing&show_icons=true&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShinnDing&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
