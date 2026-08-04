@@ -22,14 +22,19 @@ at VCRIS 2025 in Vietnam. 🌏
 
 ### 🛠️ Tech stack
 
-![PKI](https://img.shields.io/badge/PKI-00599C?style=for-the-badge)
 ![OIDC](https://img.shields.io/badge/OIDC-4A90E2?style=for-the-badge)
 ![SAML](https://img.shields.io/badge/SAML-FF6F00?style=for-the-badge)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![X.509](https://img.shields.io/badge/X.509-00599C?style=for-the-badge)
+![TLS](https://img.shields.io/badge/TLS-006699?style=for-the-badge)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![mTLS](https://img.shields.io/badge/mTLS-006699?style=for-the-badge)
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vela](https://img.shields.io/badge/Vela-00A3E0?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 
@@ -47,8 +52,8 @@ at VCRIS 2025 in Vietnam. 🌏
 
 ### 🧠 AI / ML
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)
 
 ---
 
